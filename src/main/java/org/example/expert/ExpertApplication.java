@@ -11,6 +11,7 @@ import static org.springframework.data.web.config.EnableSpringDataWebSupport.Pag
 public class ExpertApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(ExpertApplication.class, args);
     }
 
